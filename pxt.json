@@ -1,5 +1,6 @@
 {
     "name": "Drone landind lights for airfield",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
